@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FF0F53FF",
+        "font" : "Lucida Grande",
+        "color" : "#00E3FFFF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FF0C52FF",
+        "font" : "Lucida Grande",
+        "color" : "#57FF00FF"
+      },
+      "backgroundSelected" : "#00000040",
+      "text" : {
+        "size" : 21,
+        "colorSelected" : "#FFF8F3FF",
+        "font" : "Lucida Grande",
+        "color" : "#F7FFF4C8"
+      },
+      "iconPaddingHorizontal" : 6,
+      "paddingVertical" : 4,
+      "iconSize" : 44
+    },
+    "search" : {
+      "paddingVertical" : 7,
+      "background" : "#FFFFFF00",
+      "spacing" : 5,
+      "text" : {
+        "size" : 46,
+        "colorSelected" : "#000000FF",
+        "font" : "Lucida Grande",
+        "color" : "#FFFFFFFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#060B18A7",
+      "paddingHorizontal" : 0,
+      "width" : 573,
+      "borderPadding" : 0,
+      "borderColor" : "#000000FF",
+      "blur" : 20,
+      "roundness" : 3,
+      "paddingVertical" : 5
+    },
+    "credit" : "inamuu",
+    "separator" : {
+      "color" : "#CD00FFFF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#00000033",
+      "thickness" : 3
+    },
+    "name" : "molokai"
+  }
+}
