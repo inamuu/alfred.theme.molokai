@@ -1,4 +1,4 @@
-Alfred theme mololai
+Alfred theme molokai
 ====
 
 
