@@ -1,7 +1,6 @@
 Alfred theme mololai
 ====
 
-Overview
 
 ## Description
 This is theme for alfred.
