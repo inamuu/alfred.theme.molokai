@@ -3,7 +3,12 @@ Alfred theme molokai
 
 
 ## Description
-This is theme for alfred.
+
+This is a theme with molokai for alfred.
+
+## Import
+
+[alfreapp.com](https://www.alfredapp.com/extras/theme/W3ybTrqc2e/)
 
 ## Image
 
